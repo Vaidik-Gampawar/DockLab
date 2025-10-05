@@ -7,7 +7,9 @@ Includes examples of building images, running containers, and basic DevOps confi
 
 .
 ├── python/ → Flask app with Dockerfile
+
 ├── java/ → Java app with Dockerfile
+
 └── node/ → Node.js app with CI/CD, K8s, and Terraform configs
 
 
