@@ -6,6 +6,7 @@ Includes examples of building images, running containers, and basic DevOps confi
 ## 📁 Project Structure
 
 .
+
 ├── python/ → Flask app with Dockerfile
 
 ├── java/ → Java app with Dockerfile
